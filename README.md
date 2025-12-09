@@ -26,16 +26,16 @@ I specialize in architecting and operating large-scale Kubernetes ecosystems. My
 
 I have extensive experience managing lifecycle operations for enterprise clusters. Selected achievements include:
 
-* [cite_start]**Large-Scale Fleet Management:** Managed **100+ node Kubernetes clusters** across isolated enterprise environments, implementing GitOps workflows and compliance validation[cite: 14].
-* [cite_start]**Immutable Upgrades:** Engineered immutable upgrade workflows for Kubernetes and OS layers, reducing node upgrade time by **70%** through automated image rollouts[cite: 15].
-* [cite_start]**Zero-Trust Networking:** Enhanced cluster security using **eBPF-based networking**, enforcing zero-trust policies and improving workload observability[cite: 18].
-* [cite_start]**Disaster Recovery:** Architected automated **etcd backups**, cross-state validation, and secure multi-site replication, enabling cluster recovery in under **10 minutes**[cite: 16].
-* [cite_start]**Policy Automation:** Developed **RBAC-as-code** for multi-tenant clusters, streamlining access control and audit compliance through policy-driven automation[cite: 17].
-* [cite_start]**Fleet Automation:** Streamlined multi-cluster provisioning and deployment to ensure consistency and speed across diverse environments[cite: 19].
+* **Large-Scale Fleet Management:** Managed **100+ node Kubernetes clusters** across isolated enterprise environments, implementing GitOps workflows and compliance validation.
+* **Immutable Upgrades:** Engineered immutable upgrade workflows for Kubernetes and OS layers, reducing node upgrade time by **70%** through automated image rollouts.
+* **Zero-Trust Networking:** Enhanced cluster security using **eBPF-based networking**, enforcing zero-trust policies and improving workload observability.
+* **Disaster Recovery:** Architected automated **etcd backups**, cross-state validation, and secure multi-site replication, enabling cluster recovery in under **10 minutes**.
+* **Policy Automation:** Developed **RBAC-as-code** for multi-tenant clusters, streamlining access control and audit compliance through policy-driven automation.
+* **Fleet Automation:** Streamlined multi-cluster provisioning and deployment to ensure consistency and speed across diverse environments.
 
 ---
 
 ### 🛠️ Infrastructure & Scripting
-* [cite_start]**IaC:** Terraform, Ansible [cite: 50]
-* [cite_start]**Languages:** Go, Python, Bash [cite: 49]
-* [cite_start]**Data & Messaging:** Kafka, Redis Sentinel, Elasticsearch [cite: 52]
+* **IaC:** Terraform, Ansible
+* **Languages:** Go, Python, Bash
+* **Data & Messaging:** Kafka, Redis Sentinel, Elasticsearch
